@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tropic Moon - About
+title: About
 permalink: /about/
 image: "/assets/about.jpg"
 ---
