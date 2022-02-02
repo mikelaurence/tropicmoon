@@ -16,6 +16,8 @@ menu__settings:
     #   url: "/blog/"
     - title: "About"
       url: "/about/"
+    - title: "Collab"
+      url: "/collab/"
     # - title: "Contact"
     #   url: "/contact/"
     # - title: "Elements"

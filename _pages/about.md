@@ -10,6 +10,8 @@ image: "/assets/about.jpg"
 - Fujifilm XT3 camera
 - Fujifilm Fujinon 56mm F/1.2 XF R Lens
 - Fujifilm Fujinon XF18-55mm Lens
+- Continuous LED studio lighting
+- Speedlight location lighting
 
 ## 3D Software
 
