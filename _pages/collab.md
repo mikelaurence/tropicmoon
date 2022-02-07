@@ -63,7 +63,7 @@ Civilizations living and traveling in the stars. Giant space stations and tiny e
 <div class="gallery-box">
   <div class="gallery">
     <img src="/assets/photos/2022-1-17 beam him up sprite.jpeg">
-    <img src="/assets/placeholder.png">
+    <img src="/assets/photos/2022-2-6 neon tropic moon.jpeg">
     <img src="/assets/placeholder.png">
   </div>
 </div>

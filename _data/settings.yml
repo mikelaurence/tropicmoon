@@ -34,6 +34,9 @@ hero:
 portfolio:
   portfolio__title: Portfolio
   portfolio__gallery:
+    - image: /assets/photos/2022-2-6 neon tropic moon.jpeg
+      description: Ready for the tropics
+
     - image: /assets/photos/2022-1-8 dark tentacle sphere.jpeg
       #title: Cloaked in the outer wilds
       description: Cloaked in the outer wilds
