@@ -12,6 +12,7 @@ Art is better with other artists! Right now, I'm focusing on my **Renderscapes**
 
 - Bring 4-5 outfits and at least one pair of boots
 - Futuristic, formal, and/or dramatic clothes are ideal
+- Gloves, sunglasses, and other accessories are great to have as well
 - Solid colors are preferred over patterns because they can blend with more kinds of background elements
 - Themed props and costumes are a plus
 - See the list of **themes** below for ideas!
